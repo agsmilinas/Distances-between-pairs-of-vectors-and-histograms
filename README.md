@@ -1,6 +1,7 @@
 # A Survey on Unsupervised Outlier Detection in High-Dimensional Numerical Data
 Distances between pairs of vectors and histograms
 ![Image](https://raw.githubusercontent.com/agsmilinas/Distances-between-pairs-of-vectors-and-histograms/main/graph.png)
+ 
  Recreation of Arthur Zimek work paper to generate the distances between pairs of vectors and histograms
 
 1. Generate a sequence of 100 points, with uniform distribution in [0,1].  
